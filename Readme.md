@@ -1,7 +1,5 @@
-### Quer entrar e tomar uma xícara de :coffee:?
+### Quer entrar e tomar uma xÃ­cara de :coffee:?
 
 ##
 
-
-
-Olá pessoal, eu sou o Walber Florêncio :)
+RepositÃ³rio para testes iniciais de projeto.
