@@ -1,6 +1,6 @@
 [tool.poetry]
 name = "pkg"
-version = "0.0.0.post13.dev0+498b7a6"
+version = "0.0.0.post14.dev0+8332545"
 description = "Teste"
 authors = ["Walber Florencio <walberfa@gmail.com>"]
 repository = "https://github.com/walberfa/ProjetoGit"
