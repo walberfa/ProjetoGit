@@ -1,6 +1,6 @@
 [tool.poetry]
 name = "pkg"
-version = "0.0.0.post12.dev0+42c2371"
+version = "0.0.0.post13.dev0+498b7a6"
 description = "Teste"
 authors = ["Walber Florencio <walberfa@gmail.com>"]
 repository = "https://github.com/walberfa/ProjetoGit"
@@ -12,7 +12,7 @@ python = "^3.10"
 pytest = "^5.2"
 
 [tool.poetry-dynamic-versioning]
-enable = false
+enable = true
 
 
 [build-system]
